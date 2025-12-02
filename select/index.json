@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "裸の心",
+  "base_artist": "aimyon",
+  "createdAt": "2025-12-02T16:09:14.335401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "裸の心 - Naked Heart",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/01_裸の心_-_Naked_Heart_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "裸の心 - Naked Heart",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/02_裸の心_-_Naked_Heart_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "裸の心",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/03_裸の心_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "裸の心 (Instrumental) - Naked Heart (Instrumental)",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/04_裸の心_(Instrumental)_-_Naked_Heart_(Instrumental)_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "裸の心 (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/05_裸の心_(Live_in_阪神甲子園球場,_2022.11.05)_あいみょん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "裸の心",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_裸の心_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "裸の心",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_02_裸の心_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "裸の心",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_03_裸の心_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "裸の心",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_04_裸の心_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "裸の心",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_05_裸の心_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "裸の心",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_06_裸の心_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "裸の心",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_07_裸の心_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "裸の心",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_08_裸の心_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "裸の心",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_09_裸の心_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "裸の心",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_10_裸の心_あいみょん.txt"
+    }
+  ]
+}
